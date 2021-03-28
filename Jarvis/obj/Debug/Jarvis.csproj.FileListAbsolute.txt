@@ -1,0 +1,38 @@
+C:\Users\efete\Desktop\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\efete\Desktop\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\efete\Desktop\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.frm_Jarvis.resources
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\efete\Desktop\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.frm_Jarvis.resources
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+E:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.frm_Jarvis.resources
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+I:\Efe-Temel\Dosyalar\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\bin\Debug\Jarvis.exe.config
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\bin\Debug\Jarvis.exe
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\bin\Debug\Jarvis.pdb
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.frm_Jarvis.resources
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.exe
+E:\Efe-Temel\Dosyalar\Programlama-Dökümanları\Ersöz Asistan\Ersöz Asistan Proje Dosyası\Jarvis\obj\Debug\Jarvis.pdb
